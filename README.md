@@ -1,8 +1,15 @@
-# My First Python Program — Hello World
+# Python Basic to Advance
 
-This repository contains my very first Python program.  
-It simply prints "Hello, World!" to the screen.
+This repository contains my journey from beginner to advanced Python programs.  
+It includes examples of data types, input handling, string manipulation, and more.
 
-## Code
+## 🚀 Run the Code
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=amratadev/Python-Basic-to-Advance)
+
+## 🔗 Live Demo
+Visit my GitHub Pages site:  
+[🌐 Python-Basic-to-Advance](https://amratadev.github.io/Python-Basic-to-Advance/)
+
+## 📜 Sample Code
 ```python
 print("Hello, World!")
