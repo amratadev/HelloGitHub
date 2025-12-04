@@ -1,0 +1,19 @@
+#shorthand assignment operator
+a=5
+#a=a+2
+#print(a)
+a+=2
+print(a)
+a-=2
+print(a)
+a*=2
+print(a)
+a//=2
+print(a)
+a%=2
+print(a)
+a**=2
+print(a)
+a,b,c=8,9,5
+print(a,b,c)
+print(c)
