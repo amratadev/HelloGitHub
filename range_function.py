@@ -4,7 +4,7 @@ b=range(2,5)
 print(b[2])"""
 c=range(-2,15,2)#2 5 (start,stop,step) 
 """start>stop if nt true then empty
-- Positive step → start < stop
+- Positive step → start < stop*
 - Negative step → start > stop
 - equal step=stop->empty
 """
